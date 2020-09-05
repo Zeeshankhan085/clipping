@@ -324,8 +324,7 @@ img {
 /* Feature section */
 
 .work-with-us {
-  padding: 2em 1em;
-  margin-top: 4em;
+  padding: 2.5em 1em;
 }
 
 .features {
@@ -606,9 +605,6 @@ footer {
     flex-direction: row;
   }
 
-  .work-with-us {
-    margin-top: 0;
-  }
   .work-with-us,
   .workflow--content {
     padding: 5em 2em 5em 4em;
